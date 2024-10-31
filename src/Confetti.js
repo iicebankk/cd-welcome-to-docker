@@ -68,7 +68,7 @@ const Confetti = () => {
         ],
         particles: {
           color: {
-            value: ["yellow", "#FF0000"],
+            value: ["#fff600", "#6b8e23"],
           },
           move: {
             decay: 0.05,
